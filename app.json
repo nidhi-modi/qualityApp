@@ -1,0 +1,12 @@
+{
+  "name": "quality-check-app",
+  "displayName": "quality-check-app",
+  "expo": {
+    "name": "quality-check-app",
+    "slug": "quality-check-app",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
